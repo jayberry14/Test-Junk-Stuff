@@ -1,0 +1,1 @@
+{"name":"Steve","health":100,"mana":36,"gold":250}
