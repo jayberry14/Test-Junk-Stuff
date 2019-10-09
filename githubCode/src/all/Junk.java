@@ -5,7 +5,7 @@ public class Junk {
     public static void main(String[] args) {
         boolean barney = true;
         if(barney == true) {
-            System.out.println("Hello git");
+            System.out.println("Holle git");
         }
         System.out.println("Hello git");
         System.out.println("Hello git");
