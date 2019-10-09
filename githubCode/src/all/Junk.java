@@ -6,3 +6,7 @@ public class Junk {
         System.out.println("Hello git");
     }
 }
+
+public class NewStuff {
+    System.out.println("Kevin, this is you from the future");
+}
