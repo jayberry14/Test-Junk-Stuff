@@ -9,9 +9,11 @@ public class Junk {
         }
         System.out.println("Hello git");
         System.out.println("Hello git");
+        newStuff();
+    }
+
+    static void newStuff() {
+        System.out.println("Kevin, this is you from the future");
     }
 }
 
-public class NewStuff {
-    System.out.println("Kevin, this is you from the future");
-}
